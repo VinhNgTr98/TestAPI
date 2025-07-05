@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JahYsjDZsN6qHPTnlncwHY3zluN64Hs7+BUJNbCQkn7OnbjlsYD6uEEUMnBAauF8HyyI9UXJUJTdE06VxtIZhg==",
+  "dgSpecHash": "Jqx3bXqf54BGZ8BMEJJNLfWgX+kBTkIrym6dHhyKc/aowzbFUSxcR0uvOk3D+jhpQqw+wltzPUlzPK+eg/8kzw==",
   "success": true,
   "projectFilePath": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security+deploy server\\BookAPI\\BookAPI.csproj",
   "expectedPackageFiles": [
@@ -115,6 +115,7 @@
     "C:\\Users\\OS\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\OS\\.nuget\\packages\\microsoft.spatial\\8.2.3\\microsoft.spatial.8.2.3.nupkg.sha512",
     "C:\\Users\\OS\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\OS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
     "C:\\Users\\OS\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\8.0.7\\microsoft.visualstudio.web.codegeneration.8.0.7.nupkg.sha512",
     "C:\\Users\\OS\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\8.0.7\\microsoft.visualstudio.web.codegeneration.core.8.0.7.nupkg.sha512",
     "C:\\Users\\OS\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\8.0.7\\microsoft.visualstudio.web.codegeneration.design.8.0.7.nupkg.sha512",

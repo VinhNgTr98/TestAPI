@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "BookAPI\\appsettings.json",
               "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\u002Bdeploy server\\BookAPI\\appsettings.json",
               "RelativeToolTip": "BookAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-05T19:04:39.68Z",
               "EditorCaption": ""
@@ -117,7 +117,7 @@
               "RelativeDocumentMoniker": "BookAPI\\Program.cs",
               "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\u002Bdeploy server\\BookAPI\\Program.cs",
               "RelativeToolTip": "BookAPI\\Program.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAswFsAAAAMAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAswGcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T19:13:54.845Z",
               "EditorCaption": ""
@@ -132,8 +132,7 @@
               "RelativeToolTip": "BookAPI\\BookAPI.csproj",
               "ViewState": "AQIAAAYAAAAAAAAAAAAgwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-05T20:03:06.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T20:03:06.799Z"
             },
             {
               "$type": "Document",

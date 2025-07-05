@@ -1,0 +1,586 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06BC2E73-FE4C-4E7B-B9EF-B6B92E1815E3}|BookAPI\\BookAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\bookapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BC2E73-FE4C-4E7B-B9EF-B6B92E1815E3}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\webclient\\pages\\bookview\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\bookview\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\webclient\\pages\\bookview\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\bookview\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\webclient\\services\\bookapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|solutionrelative:webclient\\services\\bookapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\webclient\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BC2E73-FE4C-4E7B-B9EF-B6B92E1815E3}|BookAPI\\BookAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\bookapi\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BC2E73-FE4C-4E7B-B9EF-B6B92E1815E3}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\webclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|solutionrelative:webclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BC2E73-FE4C-4E7B-B9EF-B6B92E1815E3}|BookAPI\\BookAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BC2E73-FE4C-4E7B-B9EF-B6B92E1815E3}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\webclient\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\webclient\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\webclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\webclient\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|solutionrelative:webclient\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BC2E73-FE4C-4E7B-B9EF-B6B92E1815E3}|BookAPI\\BookAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\bookapi\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BC2E73-FE4C-4E7B-B9EF-B6B92E1815E3}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BC2E73-FE4C-4E7B-B9EF-B6B92E1815E3}|BookAPI\\BookAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\bookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06BC2E73-FE4C-4E7B-B9EF-B6B92E1815E3}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\authapi\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\authapi\\authapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\authapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\authapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\authapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\webclient\\model\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|solutionrelative:webclient\\model\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\webclient\\data\\webclientcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|solutionrelative:webclient\\data\\webclientcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\webclient\\pages\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\authapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\authapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\authapi\\repositories\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\repositories\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\authapi\\models\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\authapi\\profiles\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\profiles\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\authapi\\data\\authapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E021011-1BC0-430A-AE13-6DF0DF31D614}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\data\\authapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\webclient\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|solutionrelative:webclient\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\webclient\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|solutionrelative:webclient\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\webclient\\pages\\auth\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\auth\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|e:\\new folder\\fpt\\su25\\prn232\\asm01\u002Bodata\u002Bsecurity\\webclient\\pages\\auth\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07DB1EE-7EC9-4D46-96BE-EE5BF02BF38C}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\auth\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\BookView\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\BookView\\Index.cshtml.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\BookView\\Index.cshtml.cs",
+              "RelativeToolTip": "WebClient\\Pages\\BookView\\Index.cshtml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwCwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:07:37.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\BookView\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\BookView\\Index.cshtml",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\BookView\\Index.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\BookView\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T17:01:45.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthAPI\\appsettings.json",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\appsettings.json",
+              "RelativeToolTip": "AuthAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T16:05:22.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T01:40:30.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\BookAPI\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Repositories\\BookRepository.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\BookAPI\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BookAPI\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T01:59:28.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookApiService.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Services\\BookApiService.cs",
+              "RelativeDocumentMoniker": "WebClient\\Services\\BookApiService.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Services\\BookApiService.cs",
+              "RelativeToolTip": "WebClient\\Services\\BookApiService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAqwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:05:49.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\BookAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\BookAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAYwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:41:32.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Privacy.cshtml",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T01:54:55.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Program.cs",
+              "RelativeDocumentMoniker": "WebClient\\Program.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Program.cs",
+              "RelativeToolTip": "WebClient\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:10:10.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\DTOs\\LoginDTO.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "AuthAPI\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:12:55.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "AuthAPI\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:12:54.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T17:20:08.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\BookAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Program.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\BookAPI\\Program.cs",
+              "RelativeToolTip": "BookAPI\\Program.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAkwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:53:25.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T01:36:22.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "WebClient\\Model\\Book.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Model\\Book.cs",
+              "RelativeToolTip": "WebClient\\Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:13:01.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Accounts.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Model\\Accounts.cs",
+              "RelativeDocumentMoniker": "WebClient\\Model\\Accounts.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Model\\Accounts.cs",
+              "RelativeToolTip": "WebClient\\Model\\Accounts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:13:15.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthAPI.http",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\AuthAPI.http",
+              "RelativeDocumentMoniker": "AuthAPI\\AuthAPI.http",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\AuthAPI.http",
+              "RelativeToolTip": "AuthAPI\\AuthAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-29T16:05:24.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Program.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Program.cs",
+              "RelativeToolTip": "AuthAPI\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:05:25.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Repositories\\AuthRepository.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "AuthAPI\\Repositories\\AuthRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:05:18.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WebClientContext.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Data\\WebClientContext.cs",
+              "RelativeDocumentMoniker": "WebClient\\Data\\WebClientContext.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Data\\WebClientContext.cs",
+              "RelativeToolTip": "WebClient\\Data\\WebClientContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:13:28.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\Auth\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Auth\\Login.cshtml.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\Auth\\Login.cshtml.cs",
+              "RelativeToolTip": "WebClient\\Pages\\Auth\\Login.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:14:19.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Services\\AuthService.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "AuthAPI\\Services\\AuthService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAuwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:18:59.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "AuthAPI\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:19:30.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwC0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:19:43.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Repositories\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Repositories\\Interfaces\\IAuthRepository.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Repositories\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "AuthAPI\\Repositories\\Interfaces\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:21:24.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\BookAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BookAPI\\appsettings.json",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\BookAPI\\appsettings.json",
+              "RelativeToolTip": "BookAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T16:26:00.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Accounts.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Models\\Accounts.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\Accounts.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Models\\Accounts.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\Accounts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:13:07.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthProfile.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Profiles\\AuthProfile.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Profiles\\AuthProfile.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Profiles\\AuthProfile.cs",
+              "RelativeToolTip": "AuthAPI\\Profiles\\AuthProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:28:21.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthAPIContext.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Data\\AuthAPIContext.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Data\\AuthAPIContext.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\AuthAPI\\Data\\AuthAPIContext.cs",
+              "RelativeToolTip": "AuthAPI\\Data\\AuthAPIContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:48:42.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "WebClient\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "WebClient\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:15:47.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "WebClient\\Services\\AuthService.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Services\\AuthService.cs",
+              "RelativeToolTip": "WebClient\\Services\\AuthService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwBEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:16:02.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\Auth\\Logout.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Auth\\Logout.cshtml",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\Auth\\Logout.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\Auth\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T17:21:37.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\Auth\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Auth\\Logout.cshtml.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\WebClient\\Pages\\Auth\\Logout.cshtml.cs",
+              "RelativeToolTip": "WebClient\\Pages\\Auth\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:21:47.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\BookAPI\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Model\\Book.cs",
+              "ToolTip": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01\u002Bodata\u002Bsecurity\\BookAPI\\Model\\Book.cs",
+              "RelativeToolTip": "BookAPI\\Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T01:01:34.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AuthAPI",
+    "\\BookAPI",
+    "\\WebClient",
+    "\\WebClient\\Services"
+  ],
+  "SelectedNode": "\\WebClient\\Services\\BookApiService.cs",
+  "PreviewInSolutionExplorer": false
+}

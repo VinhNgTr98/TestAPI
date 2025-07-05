@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZWi+NSZUNY7sw4tRI1s/dC46OrLLX5a5WDnr3zp6rxNeH6YtP17QWOAuu2jS0/P+KXZQIpEy06apwZsjAmqu/g==",
+  "dgSpecHash": "nyn25E9nkYsm3w9Xo6ZBlpU0P0+UkPzMHqMaGprhM7v0kXgLWSLKx1SlaBOw+xRU6nS/Pc+qGEVjFFsu03P7tw==",
   "success": true,
-  "projectFilePath": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security\\AuthAPI\\AuthAPI.csproj",
+  "projectFilePath": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security+deploy server\\AuthAPI\\AuthAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OS\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\OS\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

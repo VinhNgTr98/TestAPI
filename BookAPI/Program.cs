@@ -89,6 +89,14 @@ namespace BookAPI
                .OrderBy()
                .Expand()
                .Select());
+            builder.WebHost.ConfigureKestrel(serverOptions =>
+            {
+                serverOptions.ListenAnyIP(5210); // HTTP
+                serverOptions.ListenAnyIP(7060, listenOptions =>
+                {
+                    listenOptions.UseHttps(); // HTTPS
+                });
+            });
 
             var app = builder.Build();
 

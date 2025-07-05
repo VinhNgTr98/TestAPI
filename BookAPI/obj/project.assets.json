@@ -8262,11 +8262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security\\BookAPI\\BookAPI.csproj",
+      "projectUniqueName": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security+deploy server\\BookAPI\\BookAPI.csproj",
       "projectName": "BookAPI",
-      "projectPath": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security\\BookAPI\\BookAPI.csproj",
+      "projectPath": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security+deploy server\\BookAPI\\BookAPI.csproj",
       "packagesPath": "C:\\Users\\OS\\.nuget\\packages\\",
-      "outputPath": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security\\BookAPI\\obj\\",
+      "outputPath": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security+deploy server\\BookAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

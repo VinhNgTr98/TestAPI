@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oEVrAz7Xctx2ZUPRDGSAFT6TK3n8mnuLe9FlGNG/FnBv5M8ZL7nQqoQvo87TaMIOu755frX/iyBPt3uS6mT9cg==",
+  "dgSpecHash": "JahYsjDZsN6qHPTnlncwHY3zluN64Hs7+BUJNbCQkn7OnbjlsYD6uEEUMnBAauF8HyyI9UXJUJTdE06VxtIZhg==",
   "success": true,
-  "projectFilePath": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security\\BookAPI\\BookAPI.csproj",
+  "projectFilePath": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security+deploy server\\BookAPI\\BookAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OS\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\OS\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

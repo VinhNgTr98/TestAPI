@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IZD4gNlLEPwdAQGvyWsvK8RfMuOXNwIUdJ2OgLH5d/inyX7bZRQ7bDZU772xhGComPnqqzahAxWoswXdCEuUbg==",
+  "dgSpecHash": "uPw/V1sinPetzltn/Z5C9nsCJmqeYoUNANks+OqbvC4GxYn9fHDGPtVbgayRyghBKBNeYXApVpLkkA6LtrmRYw==",
   "success": true,
-  "projectFilePath": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security\\WebClient\\WebClient.csproj",
+  "projectFilePath": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security+deploy server\\WebClient\\WebClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OS\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\OS\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

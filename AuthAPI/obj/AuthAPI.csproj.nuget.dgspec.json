@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security\\AuthAPI\\AuthAPI.csproj": {}
+    "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security+deploy server\\AuthAPI\\AuthAPI.csproj": {}
   },
   "projects": {
-    "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security\\AuthAPI\\AuthAPI.csproj": {
+    "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security+deploy server\\AuthAPI\\AuthAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security\\AuthAPI\\AuthAPI.csproj",
+        "projectUniqueName": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security+deploy server\\AuthAPI\\AuthAPI.csproj",
         "projectName": "AuthAPI",
-        "projectPath": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security\\AuthAPI\\AuthAPI.csproj",
+        "projectPath": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security+deploy server\\AuthAPI\\AuthAPI.csproj",
         "packagesPath": "C:\\Users\\OS\\.nuget\\packages\\",
-        "outputPath": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security\\AuthAPI\\obj\\",
+        "outputPath": "E:\\New folder\\FPT\\SU25\\PRN232\\Asm01+odata+security+deploy server\\AuthAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
